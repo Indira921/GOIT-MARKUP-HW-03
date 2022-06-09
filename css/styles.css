@@ -80,6 +80,7 @@ img {
     padding-left: 0;
     margin-top: 0;
     margin-bottom: 0;
+    margin-left: 93px;
 }
 .site-nav-item {
     display: block; 
@@ -199,8 +200,7 @@ img {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 94px 15px;
 }
 .visually-hidden {
     position: absolute;
@@ -256,8 +256,7 @@ img {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 94px 15px;
 }
 .heads2 {
     margin: 0 auto 50px;
@@ -281,19 +280,16 @@ img {
     position: relative;
 }
 /*Команда*/
-.our-team {
-    padding: 94px 0;
-    text-align: center;
-    background: #F5F4FA;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 .our-team-container {
     width: 1200px;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px; 
+    padding: 94px 15px;
+    text-align: center;
+    background: #F5F4FA;
+    margin-left: auto;
+    margin-right: auto;
 }
 .heads3 {
     font-weight: 700;
@@ -415,7 +411,7 @@ img {
     width: 1200px;
     padding-left: 15px;
     padding-right: 15px;
-    margin: 0 auto;
+    margin: 94px auto;
 }
 .portfolio-hero-container.site-nav {
     text-align:center;
