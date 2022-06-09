@@ -99,9 +99,12 @@ img {
     font-weight: 500;
     font-size: 14px;
     line-height: 1.2;
-    color: #757575;
+    color: #212121;
     padding-top: 32px;
     padding-bottom: 32px;
+}
+.nav-decor-link {
+    color: #757575;
 }
 .current {
     color: var(--accent-color);
